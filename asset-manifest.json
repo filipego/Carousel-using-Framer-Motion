@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Carousel-using-Framer-Motion/static/css/main.1ecd4f0f.css",
+    "main.js": "/Carousel-using-Framer-Motion/static/js/main.ad3a2069.js",
+    "static/media/pexels3.jpg": "/Carousel-using-Framer-Motion/static/media/pexels3.17ed28d3335592eb4366.jpg",
+    "static/media/pexels1.jpg": "/Carousel-using-Framer-Motion/static/media/pexels1.12879210cfa7b8f49da2.jpg",
+    "static/media/pexels2.jpg": "/Carousel-using-Framer-Motion/static/media/pexels2.3545f2347311f2d69fc3.jpg",
+    "static/media/pexels4.jpg": "/Carousel-using-Framer-Motion/static/media/pexels4.4def4bbb7c89ae8c6463.jpg",
+    "static/media/pexels5.jpg": "/Carousel-using-Framer-Motion/static/media/pexels5.ff3c2427328915e5fe58.jpg",
+    "index.html": "/Carousel-using-Framer-Motion/index.html",
+    "main.1ecd4f0f.css.map": "/Carousel-using-Framer-Motion/static/css/main.1ecd4f0f.css.map",
+    "main.ad3a2069.js.map": "/Carousel-using-Framer-Motion/static/js/main.ad3a2069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ecd4f0f.css",
+    "static/js/main.ad3a2069.js"
+  ]
+}
